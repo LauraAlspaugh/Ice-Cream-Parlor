@@ -17,3 +17,11 @@ img {
 button {
     border-radius: 7px;
 }
+
+.title {
+    background-color: wheat;
+}
+
+footer {
+    background-color: lightgray;
+}
